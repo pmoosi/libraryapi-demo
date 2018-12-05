@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Article-API Demo</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="stylesheets/main.css"/>
+</head>
+<body>
+
+<a id="login">Login</a>
+
+<section id="demo-content">
+    <button id="get-libraries-btn">Get Libraries</button>
+    <button id="get-books-btn">Get Books</button>
+    <button id="get-books-by-library-btn">Get Books by Library</button>
+    <button id="insert-book-btn" class="dn">Insert Book</button>
+    <button id="delete-book-btn" class="dn">Delete Book</button>
+    <button id="borrow-book-btn" class="dn">Borrow Book</button>
+    <button id="return-book-btn" class="dn">Return Book</button>
+    <button id="get-borrowed-books-btn" class="dn">Get Borrowed Books</button>
+</section>
+
+<div id="disable-bg"></div>
+<section id="set" class="pu">
+    <form id="set-form"></form>
+</section>
+<section id="response" class="pu">
+    <div id="request"></div>
+    <div id="status-code"></div>
+    <div id="response-body"></div>
+</section>
+
+<script type="application/javascript" src="javascript/axios.min.js"></script>
+<script type="application/javascript" src="javascript/constants.js"></script>
+<script type="application/javascript" src="javascript/main.js"></script>
+
+</body>
+</html>

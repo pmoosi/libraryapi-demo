@@ -7,7 +7,7 @@ Go to <https://libraryapi.paulmoosbrugger.com/signUpClient> to create a client o
 
 There are already two test-user:  
 un: client@libraryapi.com, pw: test  
-library@libraryapi.com, pw: test
+un: library@libraryapi.com, pw: test
 
 ### Usage
 

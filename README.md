@@ -6,7 +6,7 @@ Live Demo: <https://pmoosi.github.io/LibraryApiDemo/index.html>
 Go to <https://libraryapi.paulmoosbrugger.com/signUpClient> to create a client or to <https://libraryapi.paulmoosbrugger.com/signUpLibrary> to create a library
 
 There are already two test-user:  
-un: client@libraryapi.com, pw: test
+un: client@libraryapi.com, pw: test  
 library@libraryapi.com, pw: test
 
 ### Usage

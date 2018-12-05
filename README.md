@@ -11,4 +11,4 @@ un: library@libraryapi.com, pw: test
 
 ### Usage
 
-The demo has to be run on a server, else the login can't redirect.
+The demo has to run on a server, else the login page can't redirect.
